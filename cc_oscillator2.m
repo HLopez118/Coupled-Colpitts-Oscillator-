@@ -22,6 +22,7 @@ Ve = zeros(n,1);
 IL = zeros(n,1);
 
 % [Ib,Ic] = oscillator_param(t,y,beta,Ron,Vth,Vb,n);
+%random comment
 
 for j = 1:n %one direction
     
